@@ -1,0 +1,10 @@
+data/EuroSAT/
+data/EuroSAT.zip
+data/UCMerced_LandUse/
+data/UCMerced_LandUse.zip
+checkpoints/*.pt
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+venv/
+.DS_Store
