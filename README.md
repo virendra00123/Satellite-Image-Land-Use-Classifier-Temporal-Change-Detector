@@ -104,12 +104,3 @@ python -m src.imbalance_experiment --checkpoint checkpoints/transfer_resnet18.pt
   only asks for classifier metrics on this set, not that the model be
   retrained on it.
 
-## Submission checklist (from the brief)
-
-- [ ] GitHub repository — clean, with README and requirements.txt
-- [ ] All notebooks runnable top-to-bottom with no errors
-- [ ] Saved model checkpoint (`.pt`) committed or linked via Git LFS
-- [ ] Streamlit app tested locally before submission
-- [ ] PDF report — max 8 pages, including figures
-- [ ] 3-minute demo video — screen recording of the live dashboard
-- [ ] Bonuses (if attempted) clearly labelled in repo and report
